@@ -1,0 +1,9 @@
+for () { // create the x array
+
+}
+
+in the for loop, we need to init an array and then iteratively add other arrays to it, 
+to which we will iteratively add objects which will represent squares
+
+
+
